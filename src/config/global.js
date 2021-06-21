@@ -65,7 +65,18 @@ export default {
         cargo: 'Desarrollo front-end',
       },
       {
-        nombre: [''],
+        nombre: [
+          'Zuleidy Maria Ruiz Torres',
+          'Wilson Andrés Arenales Caceres',
+          'Gilberto Junior Rodriguez Rodriguez',
+          'Maria Carolina Tamayo',
+          'Carmen Martinez',
+          'Laura Murcia Pardo',
+          'Adriana Ariza Luque',
+          'Maria Camila Ovalle',
+          'Ludwyng Corzo',
+          'Arnulfo Beltrán',
+        ],
         cargo: 'Producción audiovisual',
       },
       {
