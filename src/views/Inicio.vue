@@ -27,28 +27,7 @@ section
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Modalidad: 
                 p.banner-principal__datos__item__texto virtual
-              li.mb-3.banner-principal__datos__item
-                p.h6.mb-0.me-3.banner-principal__datos__item__titulo Requisito de ingreso: 
-                .banner-principal__datos__item__texto
-                  ul.lista-ul
-                    li
-                      i.lista-ul__vineta
-                      p Nivel académico adecuado para caracterizar al aspirante de acuerdo con el perfil de egreso.
-                    li
-                      i.lista-ul__vineta
-                      p No requiere formación para el trabajo y desarrollo humano.
-                    li
-                      i.lista-ul__vineta
-                      p Edad mínima definida por ley: 15 años.
-                    li
-                      i.lista-ul__vineta
-                      p No existe legislación que establezca restricciones de ingreso.
-                    li
-                      i.lista-ul__vineta
-                      p Aspectos actitudinales, motivacionales o de interés: dinámico en el trabajo tanto en ambientes abiertos como cerrados, propositivo y de fácil adaptación a cambios tecnológicos; de fácil comunicación y con dotes de conciliador frente a conflictos laborales; receptivo ante las órdenes y nuevos direccionamientos de las empresas.
-                    li
-                      i.lista-ul__vineta
-                      p Se requiere que el estudiante en Ambiente Virtual de Aprendizaje – AVA tenga un manejo adecuado de los elementos básicos relacionados con herramientas informáticas y de comunicación como correo electrónico, chat, procesadores de texto, hojas de cálculo, software para presentaciones, Internet, navegadores y otras herramientas tecnológicas necesarias para la formación virtual.
+              
 
         .d-none.d-lg-block.col-lg-5
           //- img(src="@/assets/curso/banner-princiapal.svg")
@@ -142,7 +121,7 @@ section
   //- Créditos
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5
     .titulo__template--a.mb-4
-      span.h4 Créditos
+      span.h4 7. Créditos
 
     Creditos
 

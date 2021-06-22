@@ -57,30 +57,25 @@ export default {
         cargo: 'Responsable del equipo',
       },
       {
-        nombre: ['Carlos Julián Ramírez Benítez', 'Yuly Andrea Rey Quiñonez'],
+        nombre: ['Carlos Julián Ramírez Benítez'],
         cargo: 'Diseño web',
       },
       {
-        nombre: ['Luis Jesús Pérez Madariaga', 'Camilo Andrés Bolaño Rey'],
+        nombre: ['Luis Jesús Pérez Madariaga'],
         cargo: 'Desarrollo front-end',
       },
       {
         nombre: [
-          'Zuleidy Maria Ruiz Torres',
-          'Wilson Andrés Arenales Caceres',
+          'Carmen Martinez',
           'Gilberto Junior Rodriguez Rodriguez',
           'Maria Carolina Tamayo',
-          'Carmen Martinez',
-          'Laura Murcia Pardo',
-          'Adriana Ariza Luque',
-          'Maria Camila Ovalle',
-          'Ludwyng Corzo',
-          'Arnulfo Beltrán',
+          'Wilson Andrés Arenales Caceres',
+          'Zuleidy Maria Ruiz Torres',
         ],
         cargo: 'Producción audiovisual',
       },
       {
-        nombre: ['Yenny Patricia Ulloa villamizar'],
+        nombre: ['Maria Isabel Román Rueda'],
         cargo: 'Validación de diseño y contenido',
       },
       {
