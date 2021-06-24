@@ -33,52 +33,11 @@ export default {
         centro: 'Centro para la Industria de la Comunicación Gráfica',
         regional: 'Regional Distrito Capital',
       },
-      {
-        nombre: 'Andrés Felipe Velandia Espitia',
-        cargo: 'Revisor metodológico y pedagógico',
-        centro: 'Centro de Diseño y Metrología',
-        regional: 'Regional Distrito Capital',
-      },
-      {
-        nombre: 'Miroslava González Hernández',
-        cargo: 'Diseñador y evaluador instruccional',
-        centro: 'Centro de Gestión industrial',
-        regional: 'Regional Distrito Capital',
-      },
-      {
-        nombre: 'Sandra Patricia  Hoyos Sepúlveda',
-        cargo: 'Diseñadora Instruccional',
-        centro: 'Centro para la Industria de la Comunicación Gráfica',
-      },
     ],
     desarrolloProducto: [
       {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
-      },
-      {
-        nombre: ['Carlos Julián Ramírez Benítez'],
-        cargo: 'Diseño web',
-      },
-      {
-        nombre: ['Luis Jesús Pérez Madariaga'],
-        cargo: 'Desarrollo front-end',
-      },
-      {
-        nombre: [
-          'Carmen Martinez',
-          'Gilberto Junior Rodriguez Rodriguez',
-          'Maria Carolina Tamayo',
-          'Wilson Andrés Arenales Caceres',
-          'Zuleidy Maria Ruiz Torres',
-        ],
-        cargo: 'Producción audiovisual',
-      },
-      {
-        nombre: ['Maria Isabel Román Rueda'],
-        cargo: 'Validación de diseño y contenido',
-      },
-      {
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
       },
@@ -87,6 +46,54 @@ export default {
         cargo: 'Soporte organizacional',
         centro: 'Centro de Comercio y Servicios',
         regional: 'Regional Tolima',
+      },
+      {
+        nombre: 'Carlos Julián Ramírez Benítez',
+        cargo: 'Diseño web',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
+      },
+      {
+        nombre: 'Zuleidy Maria Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Caceres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
+      },
+      {
+        nombre: 'Gilberto Junior Rodriguez Rodriguez',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
+      },
+      {
+        nombre: 'Maria Carolina Tamayo',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
+      },
+      {
+        nombre: 'Carmen Martinez',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
+      },
+      {
+        nombre: 'Luis Jesús Pérez Madariaga',
+        cargo: 'Desarrollo front-end',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
+      },
+      {
+        nombre: 'Maria Isabel Román Rueda',
+        cargo: 'Validación de diseño y contenido',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
       },
     ],
     gestoresRepositorio: [
