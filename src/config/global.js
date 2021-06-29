@@ -20,7 +20,7 @@ export default {
       {
         nombre: 'Maryuri Agudelo Franco',
         cargo: 'Diseñadora instruccional',
-        centro: 'Centro de diseño y metrología',
+        centro: 'Centro de Diseño y Metrología',
       },
       {
         nombre: 'Alix Cecilia Chinchilla Rueda',
@@ -56,8 +56,8 @@ export default {
       {
         nombre: 'Zuleidy Maria Ruiz Torres',
         cargo: 'Producción audiovisual',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
+        centro: 'Centro de Comercio y Servicios',
+        regional: 'Regional Tolima',
       },
       {
         nombre: 'Wilson Andrés Arenales Caceres',
